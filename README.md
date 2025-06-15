@@ -28,7 +28,7 @@
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/pro-yash-jects/HashBuster.git
-   cd hashbuster
+   cd HashBuster
    ```
 
 2. **Ensure Python 3.6+ is installed:**
@@ -223,6 +223,6 @@ We welcome contributions from the community! HashBuster is an open-source projec
 
 ```bash
 git clone https://github.com/pro-yash-jects/HashBuster.git
-cd hashbuster
+cd HashBuster
 python main.py --help
 ```
