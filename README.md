@@ -27,7 +27,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/pro-yash-jects/hashbuster.git
+   git clone https://github.com/pro-yash-jects/HashBuster.git
    cd hashbuster
    ```
 
@@ -168,7 +168,7 @@ We welcome contributions from the community! HashBuster is an open-source projec
 
 1. **Fork the Repository**
    ```bash
-   git fork https://github.com/yourusername/HashBuster.git
+   git fork https://github.com/pro-yash-jects/HashBuster.git
    ```
 
 2. **Create a Feature Branch**
